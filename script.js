@@ -9,7 +9,8 @@ let title = [
 "Senha",
 "SiteColegio",
 "Mapex",
-"Wiki-Multiverso-1.0",];
+"Wiki-Multiverso-1.0",
+"CalcMedia",];
 let i = 0;
 let a = document.getElementById("link");
 let frame = document.getElementById("frame");
